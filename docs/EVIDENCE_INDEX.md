@@ -45,4 +45,4 @@ Evidence 14 – Guard rejection events
 FILES INCLUDED
 - FINAL_REPORT/ACICP302ICS_Module_1_Practical_Lab_Final_Report.docx
 - evidence/pcap/base_modbus_capture.pcapng
-- evidence/screenshots/  [screenshots to be placed here]
+- • evidence/screenshots/ — contains the 19 lab evidence screenshots listed in the evidence register above.
